@@ -11,7 +11,6 @@ Full-stack Learning Management System for Admin, Faculty, and Student workspaces
 ## Setup
 
 ```bash
-cd edusphere
 npm install
 npm run install:all
 npm run seed
@@ -31,7 +30,7 @@ Optional Cloudinary keys go in `backend/.env`.
 | ------- | ------------------------- | ------------ |
 | Admin   | admin@edusphere.com       | Admin@123    |
 | Faculty | maya.chen@edusphere.com   | Faculty@123  |
-| Student | noah.patel@edusphere.com  | Student@123  |
+| Student | noah.patel@edusphere.com  | Hell@123     |
 
 ## Creating accounts
 
